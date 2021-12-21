@@ -5,4 +5,4 @@ This repository contains all of the code implemented in the Visualization Dashbo
 https://www.kaggle.com/akshat0giri/death-due-to-air-pollution-19902017
 
 # Article of this repository
-It's not ready right now!
+https://mymasterdesigner.com/2021/12/13/visualization-dashboards-with-python-dash/
